@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="txt_view_class_name" type="id" />
+    <item name="list_class" type="id" />
+    <item name="btn_redirect_create_class" type="id" />
+    <item name="view_class" type="id" />
 </resources>
